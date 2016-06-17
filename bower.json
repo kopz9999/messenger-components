@@ -1,0 +1,29 @@
+{
+  "name": "react-messenger-components",
+  "version": "0.0.0",
+  "description": "MessengerComponents",
+  "main": "dist/react-messenger-components.min.js",
+  "homepage": "https://github.com/kopz9999/messenger-components",
+  "authors": [
+    "kopz9999"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
